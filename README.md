@@ -1,4 +1,4 @@
-https://medium.com/@n.itvedant/deploy-machine-learning-model-in-heroku-using-flask-web-app-4e938065c4da
+Blog Link :- https://medium.com/@n.itvedant/deploy-machine-learning-model-in-heroku-using-flask-web-app-4e938065c4da
 
 # Deploy-mahcine-learning-model-on-heroku
 Medium Blog which describes step by step how you can deploy your machine learning model on heroku by creating web app using flask
